@@ -1,2 +1,2 @@
-# gep-webdesign
-GovernanceEvaluator Platform Repository for Webdesign Layer
+# ToolTwist Training
+Sample repo for ToolTwist Designer training.
