@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1476764343253</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1401399978798</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to ttdemo.comps.exampleWidget</comment>
+  <userCode>adm</userCode>
+  <ipAddress>127.0.0.1</ipAddress>
+</statusHistory>
+</widgetStatus>

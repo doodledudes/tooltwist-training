@@ -1,0 +1,30 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1476841700758</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.189</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476782358804</timeChanged>
+  <status>edit</status>
+  <comment>Forked for personal editing</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.189</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476766229259</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476763224080</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to gep.widgets.gepPage</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+</widgetStatus>

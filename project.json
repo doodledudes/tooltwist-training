@@ -1,0 +1,5 @@
+{
+	"tooltwist": "com.tooltwist:tooltwist:8.5.0-SNAPSHOT",
+	"ttWbd": "com.tooltwist:ttWbd:8.5.0-SNAPSHOT",
+	"ttStd": "com.tooltwist:ttStd:8.5.0-SNAPSHOT"
+}

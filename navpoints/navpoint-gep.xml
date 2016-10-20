@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <name>gep</name>
+  <id>gep</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>Governance Evaluator</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints expected by Governance Evaluator</notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+</navpoint>

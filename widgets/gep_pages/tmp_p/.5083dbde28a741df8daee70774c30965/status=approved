@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1476766407757</timeChanged>
+  <status>approved</status>
+  <comment>Moved from gep.pages.tmp_page to gep.pages.tmp_p</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476766217966</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476764301081</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from gep.widgets.gepTemplate to gep.pages.tmp_page</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+</widgetStatus>

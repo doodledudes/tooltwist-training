@@ -1,0 +1,36 @@
+/*
+ * ToolTwist Designer WORK AREA CSS HACK
+ * Description: Just added spacing between dragged widgets on the page while you are in the designer screen.
+ */
+.designer-properties {
+    margin: 5px;
+}
+.designer-droppable + div {
+    margin: 5px;
+}
+.designer-properties img {
+    max-width: 100%;
+}
+.ttdesigner-flowChildren-insertRow {
+    font-size: 11px;
+    padding: 5px;
+}
+.ttDesigner-region-label {
+    width: auto;
+}
+.ttDesigner-widget-label {
+   	display:inline-block;
+	text-align: left;
+	background-color: blue;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	margin-left: 2px;
+	margin-top: 2px;
+	font-family:arial;
+	font-size:10px;
+	color: white;
+	cursor: move;
+
+}

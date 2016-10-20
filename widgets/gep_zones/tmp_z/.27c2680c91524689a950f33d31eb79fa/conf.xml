@@ -1,0 +1,14 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.StylesheetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <parentVersion>0.1</parentVersion>
+  <updateTime>1476766394563</updateTime>
+  <shortDesc> </shortDesc>
+  <updatedBy>rodanluzuriaga</updatedBy>
+  <ipAddress>10.0.1.83</ipAddress>
+  <content>body {
+	
+}
+</content>
+  <description>Stylesheet</description>
+</widget>

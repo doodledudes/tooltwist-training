@@ -1,0 +1,6 @@
+﻿<widget>
+  <widgetType>template</widgetType>
+  <linkedWidget>gep.widgets.gepPage</linkedWidget>
+  <label>Governance Evaluator Page</label>
+  <description>Create a new page that uses the Mustache template language. See http://mustache.github.io for details.</description>
+</widget>

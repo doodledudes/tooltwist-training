@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1476766394566</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1476766381177</timeChanged>
+  <status>edit</status>
+  <comment>Forked for personal editing</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.1.83</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1345162883338</timeChanged>
+  <status>edit</status>
+  <comment>Assumed approved prior to v8 migration.</comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>
