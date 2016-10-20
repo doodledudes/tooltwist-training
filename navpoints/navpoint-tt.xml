@@ -1,9 +1,9 @@
 ﻿<navpoint>
-  <name>gep</name>
-  <id>gep</id>
+  <name>tt</name>
+  <id>tt</id>
   <indexWithinParent>0</indexWithinParent>
   <type>page</type>
-  <label>Governance Evaluator</label>
+  <label>ToolTwist Training</label>
   <url></url>
   <useSSL>N</useSSL>
   <notes>Various navpoints expected by Governance Evaluator</notes>
